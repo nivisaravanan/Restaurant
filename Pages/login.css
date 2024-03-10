@@ -1,0 +1,50 @@
+.form{
+    background: none;
+}
+.login-btn{
+    margin-left: 20px;
+    background: #f67411;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+}
+.link-signup span a{
+ text-decoration: none;
+ color: #f67411;
+}
+.social_icon {
+font-size: 25px;
+
+}
+.email{
+    font-size: 20px;
+}
+.login-form{
+    width: 700px;
+    height: 420px;
+    position: relative;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 14px 28px rgba(253, 0, 0, 0.25),
+                0 10px 10px rgba(253, 1, 1, 0.22);
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    
+}
+
+.login_form{
+  
+    
+    width: 700px;
+    height: 420px;
+    position: relative;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 14px 28px rgba(253, 0, 0, 0.25),
+                0 10px 10px rgba(253, 1, 1, 0.22);
+    margin-top: 30px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,28 @@
+.pay-btn{
+    background-color: #f67411;
+    text-decoration: none;
+    position: relative;
+    z-index: 999;
+    width: 120px;  
+    height:30px;
+    border:none;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    border-radius: 5px;
+    
+}
+.checkout_form{
+    background:white;
+}
+.checkout_bill{
+    background-color: #fde4e4;
+    padding: 30px;
+}
+.checkout_total{
+    border-top: 1px solid;
+}
+.form_group{
+border-bottom :#f67411 1px solid;
+}

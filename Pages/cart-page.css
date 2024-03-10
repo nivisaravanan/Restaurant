@@ -1,0 +1,42 @@
+th{
+    text-align: center;
+    border-bottom: #f67411;
+
+}
+.cart__item-del i{
+    color: black;
+    cursor: pointer;
+}
+.cart__img-box{
+    width: 80px;
+}
+.cart__img-box img{
+    width: 100%;
+    
+}
+.addTOCart__btn{
+    border: none;
+   
+}
+.cart__page-btn button a{
+    background-color: #f67411;
+    text-decoration: none;
+    position: relative;
+    z-index: 999;
+    width: 180px;  
+    height:30px;
+    border:none;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    border-radius: 5px;
+}
+.cart__page-btn button a:hover{
+    color: white;
+} 
+.cart__subtotal {
+ color: #f46a01;
+ font-size: 23px;
+ font-weight: 500;
+}
